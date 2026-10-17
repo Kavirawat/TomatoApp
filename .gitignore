@@ -1,0 +1,31 @@
+# Gradle & Android Build Artifacts
+.gradle/
+**/build/
+**/.idea/
+**/.cxx/
+*.apk
+*.aab
+local.properties
+.kotlin/
+.navigation/
+
+# Node & JavaScript dependencies
+**/node_modules/
+**/dist/
+**/.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment and sensitive data
+**/.env.local
+**/.env.development.local
+**/.env.test.local
+**/.env.production.local
+
+# Sub-repository internal backups
+**/.git_backup/
+
+# OS files
+.DS_Store
+Thumbs.db

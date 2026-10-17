@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Tomato Leaf Accent -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,19 C55,15 62,17 65,22 C61,24 55,23 52,19 Z" />
+    <!-- Stylized Zomato-style 't' Glyph -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,28 C44,25.5 46,24 48.5,24 C51,24 53,25.5 53,28 L53,40 L67,40 C69.5,40 71.5,42 71.5,44.5 C71.5,47 69.5,49 67,49 L53,49 L53,69 C53,74.5 56.5,77 62,77 C65,77 67.5,76 69,74.5 C71,72.5 74,73.5 75,76.5 C76,79.5 74,82.5 70,84.5 C66.5,86.5 61.5,87 56,87 C44.5,87 41,79 41,68 L41,49 L32,49 C29.5,49 27.5,47 27.5,44.5 C27.5,42 29.5,40 32,40 L41,40 L41,28 Z" />
+</vector>
